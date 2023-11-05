@@ -102,6 +102,10 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/steminist-ua/Interview-Questions' },
       { icon: 'instagram', link: 'https://www.instagram.com/steminist.ua' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/anastasiia-iskandarova-mala/' }
-    ]
+    ],
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2023-present Anastasiia | STEMINIST",
+    },
   }
 })
