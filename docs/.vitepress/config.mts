@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/Interview-Questions",
+  base: "/Interview-Questions/",
   title: "Interview-Questions",
   description: "📚 🎓 Ресурс для як новачків, так і досвідчених розробників, які прагнуть підготуватися до співбесід на посади розробників програмного забезпечення 💼💻",
   themeConfig: {
